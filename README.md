@@ -13,6 +13,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&amp;logo=Amazon S3&amp;logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=MySQL&amp;logoColor=white" /></div>
 </div>
+<div align="center">
 <br/>
 <br/>
 <br/>
